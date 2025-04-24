@@ -2,8 +2,12 @@
   
 [![wakatime](https://wakatime.com/badge/user/12abea7b-f3f7-4163-ae67-02a2885873ff.svg)](https://wakatime.com/@12abea7b-f3f7-4163-ae67-02a2885873ff)
 
-![cvpfus's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cvpfus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=00881F&ring=60C17D&currStreakLabel=60C17D)
-
-![cvpfus's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvpfus&count_private=true&show_icons=true&theme=vue&hide=prs,issues,contribs)
-
 </div>
+
+## 💻 Tech Stack
+- HTML
+- CSS, TailwindCSS
+- JavaScript, TypeScript
+- React, Next.js
+- Solidity, Hardhat, Wagmi, Viem
+- C#, .NET
